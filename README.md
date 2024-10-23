@@ -32,6 +32,6 @@ For example, the file `N100p0.3t1000.txt` contains results for 100 fleas, a jump
 
 ## Plots & Analysis
 
-The project generates a plot showing the number of fleas on both ACE and REX as a function of time `t`. The plot is saved in the `plots/` directory.
+The project generates a plot showing the number of fleas on both ACE and REX as a function of time `t`. 
 
 Multiple simulations with different values of `N` can be run to observe how the flea distribution changes as the population increases. 
